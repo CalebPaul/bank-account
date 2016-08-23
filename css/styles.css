@@ -1,3 +1,6 @@
 .container {
   width: 85%;
 }
+#options-box, #account-list{
+  display: none;
+}
